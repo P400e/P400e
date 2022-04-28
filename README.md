@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bilal
-- 👀 I’m interested in IOS developer.
-- 🌱 I’m currently learning swift.
-- 💞️ I’m looking to collaborate on learning swift.
+- 👀 I’m interested in front end developer.
+- 🌱 I’m currently Plan to start the road.
+- 💞️ I’m looking to collaborate on learning front end.
 - 📫 How to reach me IG && TW p400e
 
 <!---
